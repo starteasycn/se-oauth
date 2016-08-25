@@ -1,0 +1,4 @@
+rootProject.name = 'se-oauth'
+include 'oauth-api'
+include 'oauth-service'
+
